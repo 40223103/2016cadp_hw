@@ -1,131 +1,362 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<title>reveal.js – The HTML Presentation Framework</title>
-<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-<meta name="author" content="Hakim El Hattab">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css">
-<link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme">
-<!-- Theme used for syntax highlighting of code -->
-<link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css">
-<!-- Printing and PDF exports -->
-<script>
-    var link = document.createElement( 'link' );
-    link.rel = 'stylesheet';
-    link.type = 'text/css';
-    link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
-    document.getElementsByTagName( 'head' )[0].appendChild( link );
-</script>
-<!--[if lt IE 9]>
-<script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"></script>
-<![endif]-->
-	
+    <meta charset="utf-8">
+<title>    
+2016 Fall 計算機程式課程
+</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css">
+    <link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme">
+    
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"></script>
+    <![endif]-->
 </head>
+
 <body>
 <div class="reveal">
 <!-- Any section element inside of this container is displayed as a slide -->
 <div class="slides">
-        <section>
-            <h1>課程簡報</h1>
-            <h3>40223103 學員</h3>
-            <p>
-                <small>
-                Created by <a href="https://github.com/40223103">40223103</a> /
-                <a href="https://www.facebook.com/profile.php?id=100005840342126">40223103@gm.nfu.edu.tw</a>
-                </small>
-            </p>
-<a href="blog/index.html">blog</a>
-        </section>
-        	
-        <section>
-            <h2>10/1成品影片</h2>
-            <p>
-           <iframe src="" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="">40223103四設四甲李靜如</a> from <a href="">40223103</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-            </p>
-        </section>
-        					
-        <!-- Example of nested vertical slides -->
-        <section>
-            <section>
-                    <h2>Vertical Slides</h2>
-                    <p>Slides can be nested inside of each other.</p>
-                    <p>
-                    Use the <em>Space</em> key to navigate through all slides.
-                    </p>
-                    <br>
-                    <a href="#" class="navigate-down">
-                    <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-                    </a>
-            </section>
-            
-            <section>
-                        <h2>Basement Level 1</h2>
-                        <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
-            </section>
-            
-            <section>
-                        <h2>Basement Level 2</h2>
-                        <p>That's it, time to go back up.</p>
-                        <br>
-                        <a href="#/2">
-                        <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
-                        </a>
-            </section>
-            
-        </section>
-        						
-        <section>
-            <h2>Slides</h2>
-            <p>
-            Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="http://slides.com" target="_blank">http://slides.com</a>.
-            </p>
-        </section>
-        					
-        <section data-markdown>
-                <script type="text/template">
-                        ## Markdown support
-                
-                        Write content using inline or external Markdown.
-                        Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-                        <section data-markdown>
-                          ## Markdown support
-                
-                          Write content using inline or external Markdown.
-                          Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-                        </section>
-                        
+<section data-markdown>
+    <script type="text/template">
+# 課程簡報
+
+### 40223103 學員
+
+<small>
+Created by [40223103](http://40223103.github.io/2016fallcadp_hw/blog/index.html)
+</small>
+
+[blog](blog/index.html)
+
+    </script>
+</section>
+
+
+						
+<section>
+<section data-markdown>
+    <script type="text/template">
+#week1
+
+建立老師指派的任務
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##1. 對 2016fallcadp 進行Fork
+
+執行方式：
+對[2016fallcadp](https://github.com/40223103/2016fallcadp/network/members)進行Fork
+
+Fork：到[2016fallcadp](https://github.com/40223103/2016fallcadp/network/members)
+的頁面中，右上角有個Fork的按鈕，按完後就可完成Fork)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##2. 建立個人的Homework
+
+執行方式：
+建立名稱為[2016fallcadp_hw](https://github.com/40223103/2016fallcadp_hw)，並且在Branch裡建立gh-pages
+
+PS：如不建立，將會使其他人看不見自己homework的內容，除此之外，還會導致老師的[2016fallcadp](https://github.com/40223103/2016fallcadp/network/members)內產生錯誤
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##3. 建立個人的頁面(io)
+
+執行方式：
+創立自己的io頁面，名稱為:[40223103.github.io](https://github.com/40223103/40223103.github.io)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##4. 建立小組的頁面 2016fallcadp_ag1
+
+執行方式：
+(因自己為組長)創立自己組的頁面，名稱為(被分配在第一組):[2016fallcadp_ag1](https://github.com/40223103/2016fallcadp_ag1)，並且在Branch裡建立gh-pages。
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##5. 在每個所建立的倉儲中，建立index.html檔案
+
+執行方式：
+以上頁面均需建立index.html檔，並在index中，放置PPT的程式碼，紀錄在電腦輔助設計實習所學的課程內容
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##6-1. 將組員的Homework倉儲加入分支
+
+執行方式：
+在[2016fallcadp_ag1](https://github.com/40223103/2016fallcadp_ag1)中，將組員的homework頁面加入分支中，其指令在[2016fallcpa的wiki](https://github.com/mdecourse/2016fallcpa/wiki)中
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##6-2. 將組員的Homework頁面加入分支的步驟為:
+<small>
+(1)git clone https://github.com/40223103/2016fallcadp_ag1.git (將組的頁面下載下來)
+
+(2)cd 2016fallcadp_ag1(進入2016fallcadp_ag1這個資料夾)
+
+(3)git branch gh-pages(建立分支)(理解為建立一個資料夾)
+
+(4)git checkout gh-pages(簽出版本資料)(這個指令我不太明白他的意思)
+
+(5)git submodule add -b gh-pages https://github.com/40223103/2016fallcadp_hw 40223103(此處為將此連結用這個組員的學號命名)(理解為是將連結跟這個資料夾連結在一起，並且為此資料夾命名)
+
+(6)這樣就完成近端的整合了，接下來只要push到遠端就可以了。
+
+(第六步驟後因為忘記確切的指令的，因此尋求同學們的幫助，加上在此步驟時，產生了因錯誤指令而導致的錯誤有兩三次了，所以完成時，卻忘記再去把指令記錄下來，所以現在還需要再查詢以前的指令紀錄本，才可得知push的指令為何)
+</small>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##7-1. 心得
+　　以上內容在2016/10/13時，終於全部完成了，雖然這些應該在幾個禮拜前就需要完成的事情，卻因為不確定用甚麼指令來完成，不確定老師是將指令放在哪個頁面中，但是經由問同學跟老師後，才一一了解。
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+###7-2. 解決問題的過程:
+<small>
+　　由於在傳送指令的過程中，頻頻出錯，還用錯誤的方式來刪除，導致了因沒有將自己的homework建立gh-pages，而在建立組的頁面中，我的homework分支產生問題，又直接在近端的資料夾中，直接刪掉自己的分支(資料夾)，所以一直無法重新將自己的homework頁面與組的頁面產生連結，詢問老師後才明白，我用了錯誤的方式刪掉錯誤的資料，而且在隱藏檔案.git中，我並沒有刪掉裡面的隱藏檔，加上其他的紀錄檔中，未刪除其資料，所以導致一直錯誤，後來我只刪除.git裡的自己分支檔的檔案後，就可以重新建立分支了，好險這時已經有傻傻的將homework的gh-pages建立起來了(那時還不太明白建立這個的用意)，不然又要不斷重來之後才會發現問題了。
+</small>
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+#week2
+利用Solvespace練習繪製零件，需繪製的零件有以下五種零件：
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##1. 零件繪製(3D)
+[零件繪製(3D)](http://solvespace.com/bracket.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##2. 2D零件繪製
+[2D零件繪製](http://solvespace.com/2d.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##3. 零件組立
+[零件組立](http://solvespace.com/box.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##4. 使用約束條件繪圖
+[使用約束條件繪圖](http://solvespace.com/constraints.pl)
+PS：需含平面機構模擬與關鍵點座標輸出及驗證
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##5. 連桿組立與模擬
+[連桿組立與模擬](http://solvespace.com/linkage.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##6. 心得
+    </script>
+</section>
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+#week3
+利用Onshape重新繪製week2所畫的零件，需繪製的零件有以下五種零件：
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##1. 創立Onshape帳號
+創立[Onshape](https://cad.onshape.com/documents?column=name&order=asc&viewMode=0&tag=54908fc8e4b03db8d1d05b9b)的帳號(用學校電子信箱)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##2. 零件繪製(3D)
+[零件繪製(3D)](http://solvespace.com/bracket.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##3. 2D零件繪製
+[2D零件繪製](http://solvespace.com/2d.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##4. 零件組立
+[零件組立](http://solvespace.com/box.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##5. 使用約束條件繪圖
+[使用約束條件繪圖](http://solvespace.com/constraints.pl)
+PS：需含平面機構模擬與關鍵點座標輸出及驗證
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##6. 連桿組立與模擬
+[連桿組立與模擬](http://solvespace.com/linkage.pl)
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##7. Solvespace跟Onshape的比較
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##8. 心得
+    </script>
+</section>
+
+
+						
+</section>
+</div>
+
+</div>
+
+<script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"></script>
+<script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"></script>
+<script>
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+            ]
+        });
 </script>
-        </section>
-        						
-        <script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"></script>
-        <script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"></script>
-        <script>
-                // More info https://github.com/hakimel/reveal.js#configuration
-                Reveal.initialize({
-                    controls: true,
-                    progress: true,
-                    history: true,
-                    center: true,
-        
-                    transition: 'slide', // none/fade/slide/convex/concave/zoom
-        
-                    // More info https://github.com/hakimel/reveal.js#dependencies
-                    dependencies: [
-                        { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-                        { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                        { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                        { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-                        { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
-                        { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true }
-                    ]
-                });
-        </script>
-</div>
-</div>
 </body>
 </html>
+

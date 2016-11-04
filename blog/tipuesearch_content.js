@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"title":"About","text":"2016Fall 修課成員網誌","tags":"misc","url":"./pages/about/"},{"title":"40223103 上課筆記","text":"這裡放入文章摘要 這裡為文章主要內容 程式碼 print(\"hello\")","tags":"紀錄","url":"./40223103-shang-ke-bi-ji.html"}]};
