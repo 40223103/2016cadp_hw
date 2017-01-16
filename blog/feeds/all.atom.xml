@@ -13,7 +13,7 @@
 &lt;p&gt;圖檔：
 &lt;iframe src="./../data/threejs/20170112.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;影片：
-&lt;iframe src="https://vimeo.com/199663699" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="640" height="480" src="https://vimeo.com/199663699" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;2. Assembly [(零件組立)]&lt;/h2&gt;
 &lt;p&gt;(http://solvespace.com/box.pl)&lt;/p&gt;
 &lt;h2&gt;3. Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/h2&gt;
@@ -35,22 +35,22 @@
 &lt;p&gt;5.git push&lt;/p&gt;
 &lt;p&gt;6.完成上傳&lt;/p&gt;
 &lt;p&gt;影片：
-&lt;iframe src="https://vimeo.com/199626045" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="week13"></category></entry><entry><title>40223103 期末電腦輔助設計實習課程總整理</title><link href="./40223103-qi-mo-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-zheng-li.html" rel="alternate"></link><published>2017-01-12T14:50:00+08:00</published><updated>2017-01-12T14:50:00+08:00</updated><author><name>40223103</name></author><id>tag:,2017-01-12:./40223103-qi-mo-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-zheng-li.html</id><summary type="html">&lt;p&gt;從期中到期末這段時間有做的資料總結&lt;/p&gt;
+&lt;iframe width="640" height="480" src="https://vimeo.com/199626045" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="week13"></category></entry><entry><title>40223103 期末電腦輔助設計實習課程總整理</title><link href="./40223103-qi-mo-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-zheng-li.html" rel="alternate"></link><published>2017-01-12T14:50:00+08:00</published><updated>2017-01-12T14:50:00+08:00</updated><author><name>40223103</name></author><id>tag:,2017-01-12:./40223103-qi-mo-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-zheng-li.html</id><summary type="html">&lt;p&gt;從期中到期末這段時間有做的資料總結&lt;/p&gt;
 
 
 &lt;p&gt;我先將有做的課程作品放上
 1.甜甜圈
-&lt;iframe src="./../data/threejs/20170112.html" width="800" height="600"&gt;&lt;/iframe&gt;
-繪製成功後的截圖畫面
-&lt;iframe src="./../data/threejs/甜甜圈.png" width="800" height="600"&gt;&lt;/iframe&gt;
-製作完成的
-&lt;a href="./../data/1215/1215.slvs"&gt;原始檔&lt;/a&gt;
-影片：
-&lt;iframe src="https://vimeo.com/199663699" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="./../data/threejs/20170112.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;繪製成功後的截圖畫面
+&lt;iframe src="./../data/threejs/甜甜圈.png" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;製作完成的
+&lt;a href="./../data/1215/1215.slvs"&gt;原始檔&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片：
+&lt;iframe width="640" height="480" src="https://vimeo.com/199663699" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;2.week13修改錯誤
 修改在GitHub更新改版後，所產生的錯誤
 影片：
-&lt;iframe src="https://vimeo.com/199626045" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="期末課程總整理"></category></entry><entry><title>40223103 week16上課筆記</title><link href="./40223103-week16shang-ke-bi-ji.html" rel="alternate"></link><published>2016-12-29T14:40:00+08:00</published><updated>2016-12-29T14:40:00+08:00</updated><author><name>40223103</name></author><id>tag:,2016-12-29:./40223103-week16shang-ke-bi-ji.html</id><summary type="html">&lt;p&gt;課堂筆記：
+&lt;iframe width="640" height="480" src="https://vimeo.com/199626045" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="期末課程總整理"></category></entry><entry><title>40223103 week16上課筆記</title><link href="./40223103-week16shang-ke-bi-ji.html" rel="alternate"></link><published>2016-12-29T14:40:00+08:00</published><updated>2016-12-29T14:40:00+08:00</updated><author><name>40223103</name></author><id>tag:,2016-12-29:./40223103-week16shang-ke-bi-ji.html</id><summary type="html">&lt;p&gt;課堂筆記：
 (1)功課：&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-onshape-jiao-xue.html"&gt;零件繪製與組立&lt;/a&gt;&lt;/p&gt;
 
 
