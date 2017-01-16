@@ -11,8 +11,8 @@
 &lt;p&gt;When we hover the mouse over any entity, constraint, or other object in the sketch, that object will appear highlighted in yellow. For example, the XY plane, which is drawn as a dashed square, will appear highlighted when we hover the mouse over it. The YZ and ZX planes initially look like dashed lines, because they are being viewed on edge; but they still appear highlighted in yellow when we hold the mouse over them. It is similarly possible to highlight the X, Y, and Z axes (which are drawn as arrows), or the origin (which like all points is drawn as a green square).&lt;/p&gt;
 &lt;p&gt;將圖檔(甜甜圈)存成html，之後放入倉儲內，再利用GitHub內建的stlviewer功能展示。&lt;/p&gt;
 &lt;p&gt;圖檔：
-&lt;iframe src="./../data/threejs/20170112.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;影片：
+&lt;iframe src="./../w11/20170112.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199663699"&gt;影片&lt;/a&gt;：
 &lt;iframe width="640" height="480" src="https://vimeo.com/199663699" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;2. Assembly [(零件組立)]&lt;/h2&gt;
 &lt;p&gt;(http://solvespace.com/box.pl)&lt;/p&gt;
@@ -34,22 +34,22 @@
 &lt;p&gt;4.git commit -m "0112"&lt;/p&gt;
 &lt;p&gt;5.git push&lt;/p&gt;
 &lt;p&gt;6.完成上傳&lt;/p&gt;
-&lt;p&gt;影片：
+&lt;p&gt;&lt;a href="https://vimeo.com/199626045"&gt;影片&lt;/a&gt;：
 &lt;iframe width="640" height="480" src="https://vimeo.com/199626045" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="week13"></category></entry><entry><title>40223103 期末電腦輔助設計實習課程總整理</title><link href="./40223103-qi-mo-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-zheng-li.html" rel="alternate"></link><published>2017-01-12T14:50:00+08:00</published><updated>2017-01-12T14:50:00+08:00</updated><author><name>40223103</name></author><id>tag:,2017-01-12:./40223103-qi-mo-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-zheng-li.html</id><summary type="html">&lt;p&gt;從期中到期末這段時間有做的資料總結&lt;/p&gt;
 
 
 &lt;p&gt;我先將有做的課程作品放上
 1.甜甜圈
-&lt;iframe src="./../data/threejs/20170112.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="./../w11/20170112.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;繪製成功後的截圖畫面
-&lt;iframe src="./../data/threejs/甜甜圈.png" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="./../w11/甜甜圈.png" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;製作完成的
-&lt;a href="./../data/1215/1215.slvs"&gt;原始檔&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;影片：
+&lt;a href="./../w11/1215.slvs"&gt;原始檔&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199663699"&gt;影片&lt;/a&gt;：
 &lt;iframe width="640" height="480" src="https://vimeo.com/199663699" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;2.week13修改錯誤
 修改在GitHub更新改版後，所產生的錯誤&lt;/p&gt;
-&lt;p&gt;影片：
+&lt;p&gt;&lt;a href="https://vimeo.com/199626045"&gt;影片&lt;/a&gt;：
 &lt;iframe width="640" height="480" src="https://vimeo.com/199626045" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="期末課程總整理"></category></entry><entry><title>40223103 week16上課筆記</title><link href="./40223103-week16shang-ke-bi-ji.html" rel="alternate"></link><published>2016-12-29T14:40:00+08:00</published><updated>2016-12-29T14:40:00+08:00</updated><author><name>40223103</name></author><id>tag:,2016-12-29:./40223103-week16shang-ke-bi-ji.html</id><summary type="html">&lt;p&gt;課堂筆記：
 (1)功課：&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-onshape-jiao-xue.html"&gt;零件繪製與組立&lt;/a&gt;&lt;/p&gt;
 
